@@ -3,4 +3,7 @@ from tkinter import Y
 
 print('test')
 
-if x > Y    print('yes')
+if x > Y
+  
+  print('yes')
+  
